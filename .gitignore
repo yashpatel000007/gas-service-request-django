@@ -1,0 +1,26 @@
+
+__pycache__/
+*.pyc
+
+env/
+venv/
+.env/
+
+db.sqlite3
+
+*.log
+*.pot
+*.pyc
+*.pyo
+
+.env
+
+.vscode/
+.idea/
+
+node_modules/
+
+/migrations/*
+!/migrations/__init__.py  # Keep migration init files, but ignore others
+
+attachments/
