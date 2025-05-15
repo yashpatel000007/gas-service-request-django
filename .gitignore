@@ -24,3 +24,7 @@ node_modules/
 !/migrations/__init__.py  # Keep migration init files, but ignore others
 
 attachments/
+
+en/
+*.pyc
+__pycache__/
